@@ -1,0 +1,4 @@
+﻿  test.c
+s:\cpp\c_test\c_text_无序数组指定查找\c_text_无序数组指定查找\test.c(26): warning C4033: “BubbleSort”必须返回值
+s:\cpp\c_test\c_text_无序数组指定查找\c_text_无序数组指定查找\test.c(27): warning C4716: “BubbleSort”: 必须返回一个值
+  C_Text_无序数组指定查找.vcxproj -> S:\CPP\C_Test\C_Text_无序数组指定查找\Debug\C_Text_无序数组指定查找.exe
